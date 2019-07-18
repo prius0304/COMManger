@@ -1,0 +1,15 @@
+C:\Users\HL-01\Desktop\COMManger\COMManger\bin\Debug\COMManger.exe
+C:\Users\HL-01\Desktop\COMManger\COMManger\bin\Debug\COMManger.pdb
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\COMManger.csprojAssemblyReference.cache
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\COMManger.FormMain.resources
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\COMManger.Properties.Resources.resources
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\COMManger.csproj.GenerateResource.cache
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\COMManger.csproj.CoreCompileInputs.cache
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\COMManger.exe
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\COMManger.pdb
+C:\Users\HL-01\Desktop\COMManger\COMManger\bin\Debug\EN\COMManger.resources.dll
+C:\Users\HL-01\Desktop\COMManger\COMManger\bin\Debug\zh-CN\COMManger.resources.dll
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\COMManger.FormMain.EN.resources
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\COMManger.FormMain.zh-CN.resources
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\EN\COMManger.resources.dll
+C:\Users\HL-01\Desktop\COMManger\COMManger\obj\Debug\zh-CN\COMManger.resources.dll
